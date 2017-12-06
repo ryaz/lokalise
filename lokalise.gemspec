@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'hashie', '~> 2'
   spec.add_runtime_dependency 'json', '>= 1.7.7'
   spec.add_runtime_dependency 'rubyzip', '~> 1.0'
-  spec.add_runtime_dependency 'slop', '~> 4.0'
+  spec.add_runtime_dependency 'slop', '~> 3.4'
 end
